@@ -24,4 +24,4 @@ DAO software uses Web 3 smart contracts to facilitate decentralized group decisi
 Decisions need to be made about what to do with the money in the bank, but also about membership, and really anything the group wants to coordinate around. So, DAO software also has built in mechanisms to help with this. Members are voted in (or added when the DAO is launched) and the software allows members of a DAO (or even non-members) to submit proposals, and the other members to vote on those proposals. It’s simple software, so all of this can be done with just a few clicks. And it’s Web 3, so there is no central point of control for any of this software or the associated records of votes, etc.
 
 So, when someone says “maybe you should use a DAO” what they mean is that your organization, or team, or project might benefit from the use of DAO software for coordination purposes.
-
+![SPACEINVADERGIF](https://media.giphy.com/media/KY2ZMhnCxP008/giphy.gif)
